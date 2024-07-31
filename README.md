@@ -51,7 +51,18 @@ Each recipe will undergo thorough testing to ensure accuracy and clarity of inst
 
 
 
+![Front page](https://github.com/user-attachments/assets/e7a10d7b-a65a-49cf-b786-88126f24036a)
+
+
+![recipe front page](https://github.com/user-attachments/assets/6de35e90-2e9b-43fb-82be-e22735ce0ace)
 
 
 
+![recipe details](https://github.com/user-attachments/assets/19dc6c98-0116-43e6-b1b5-a365ef0154b6)
 
+
+
+![type of meal](https://github.com/user-attachments/assets/c966017c-e393-4bc3-88ac-a33abb93f6d1)
+
+
+![recipe not avalibale](https://github.com/user-attachments/assets/5e58d5b6-f0a4-4314-a7ff-45d262f96dc5)
